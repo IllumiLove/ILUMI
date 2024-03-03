@@ -32,17 +32,24 @@ B: 重開機就好。
 8. ILUMI防封是基於Discord偽裝的防護程式，基於py語音環境開發，開啟後正常情況下 Discord 會重新啟動，那就對了 那就是成功了。
 9. 瀏覽器關閉也是正常的，因為要加密雲端傳輸不讓遊戲或者插件抓取IP所以ILUMI會在加載前暫時禁用瀏覽器，Discord重啟後就可以正常使用了。
 
- 
+
 ## 🤝➤目前ILUMI支持的開發團隊
 ## =========================
 
 • Fecurity 
+
 • NeverLose
+
 • RTX-BGX
+
 • KernAim
+
 • Unnamed
+
 • Ring
+
 • Skeet
+
 • UK
 
 
@@ -50,15 +57,25 @@ B: 重開機就好。
 ## =======================
 
 • Valve Anti-Cheat (VAC) System
+
 • PunkBuster
+
 • Easy Anti-Cheat (EAC)
+
 • BattlEye
+
 • FairFight
+
 • GameGuard
+
 • HackShield
+
 • XIGNCODE3
+
 • nProtect GameGuard
+
 • Warden Client
+
 • Riot Vanguard(只有特戰英豪)
 
 
